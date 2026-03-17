@@ -36,7 +36,7 @@ This repository covers the **complete data science workflow**:
 - Web scraping  
 - Data preprocessing  
 
-### 🔹 **Machine Learning 🚀**
+### 🔹 **Machine Learning **
 - `SpaceX Machine Learning Prediction`  
 
 **Objective:**
