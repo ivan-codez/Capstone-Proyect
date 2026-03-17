@@ -13,6 +13,7 @@ This repository covers the **complete data science workflow**:
 - 📊 **Exploratory Data Analysis (EDA)**  
 - 🤖 **Machine Learning modeling**  
 
+<br>
 
 ## 📂 Projects
 
@@ -51,6 +52,7 @@ This repository covers the **complete data science workflow**:
   - Machine learning  
   - Insights and conclusions  
 
+<br>
 
 ## 🛠️ Technologies Used
 
@@ -60,6 +62,7 @@ This repository covers the **complete data science workflow**:
 - **Web Scraping** (BeautifulSoup, Requests)  
 - **Machine Learning** (Scikit-learn)  
 
+<br>
 
 ## 🎯 Skills Demonstrated
 
@@ -69,6 +72,8 @@ This repository covers the **complete data science workflow**:
 - SQL querying  
 - API integration & web scraping  
 - Machine learning modeling  
+
+<br>
 
 ## 👨‍💻 About Me
 
