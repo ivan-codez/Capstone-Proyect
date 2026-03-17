@@ -1,4 +1,4 @@
-# 🚀 Data Analysis & Machine Learning Portfolio
+# Data Analysis & Machine Learning Portfolio
 
 This repository contains projects developed as part of the **IBM Data Science Professional Certificate**, applying concepts in real-world datasets and practical scenarios.
 
