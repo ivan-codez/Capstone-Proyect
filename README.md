@@ -53,11 +53,11 @@ This repository covers the **complete data science workflow**:
 
 ## 🛠️ Technologies Used
 
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🗄️ **SQL**  
-- 📓 **Jupyter Notebook**  
-- 🌐 **Web Scraping** (BeautifulSoup, Requests)  
-- 🤖 **Machine Learning** (Scikit-learn)  
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **SQL**  
+- **Jupyter Notebook**  
+- **Web Scraping** (BeautifulSoup, Requests)  
+- **Machine Learning** (Scikit-learn)  
 
 
 ## 🎯 Skills Demonstrated
