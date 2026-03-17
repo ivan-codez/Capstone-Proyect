@@ -56,22 +56,33 @@ This repository covers the **complete data science workflow**:
 
 ## 🛠️ Technologies Used
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **SQL**  
-- **Jupyter Notebook**  
-- **Web Scraping** (BeautifulSoup, Requests)  
-- **Machine Learning** (Scikit-learn)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL  
+- Jupyter Notebook  
+- Web Scraping (BeautifulSoup, Requests)  
+- REST APIs (SpaceX API data collection)  
+- Machine Learning (Scikit-learn)  
+- Model Optimization (GridSearchCV, Cross-validation)  
 
 <br>
 
 ## 🎯 Skills Demonstrated
 
+- Data collection from APIs and web scraping  
 - Data cleaning and preprocessing  
+- Data wrangling and feature engineering  
 - Exploratory Data Analysis (EDA)  
-- Data visualization  
-- SQL querying  
-- API integration & web scraping  
-- Machine learning modeling  
+- Statistical analysis and data interpretation  
+- SQL-based data analysis  
+- Machine learning model development  
+- Model evaluation (accuracy, confusion matrix)  
+- Hyperparameter tuning and optimization  
+- Classification problem solving  
+- Data-driven decision making  
+- Feature encoding (one-hot encoding)  
+- Data standardization (scaling)  
+- Train/test split methodology  
+- Logistic Regression, Support Vector Machine (SVM), Decision Tree, K-Nearest Neighbors (KNN)  
 
 <br>
 
