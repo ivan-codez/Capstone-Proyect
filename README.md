@@ -2,7 +2,7 @@
 
 This repository contains projects developed as part of the **IBM Data Science Professional Certificate**, applying concepts in real-world datasets and practical scenarios.
 
----
+<br>
 
 ## 📌 Project Overview
 
