@@ -43,7 +43,7 @@ This repository covers the **complete data science workflow**:
 - Predict **rocket landing success** using classification models  
 
 ### 🔹 **Capstone Project**
-- `Capstone Project.pdf`  
+- `Capstone Project Final.pdf`  
 
 **Description:**
 - End-to-end project integrating:
