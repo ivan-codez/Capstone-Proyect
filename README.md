@@ -52,7 +52,7 @@ This repository covers the **complete data science workflow**:
 
 
 ## 🛠️ Technologies Used
----
+
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **SQL**  
 - **Jupyter Notebook**  
@@ -61,7 +61,7 @@ This repository covers the **complete data science workflow**:
 
 
 ## 🎯 Skills Demonstrated
----
+
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Data visualization  
@@ -70,5 +70,5 @@ This repository covers the **complete data science workflow**:
 - Machine learning modeling  
 
 ## 👨‍💻 About Me
----
+
 **Mechanical Engineer transitioning into Data Science, AI, and Machine Learning**
